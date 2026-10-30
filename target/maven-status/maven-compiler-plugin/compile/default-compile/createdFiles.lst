@@ -1,0 +1,17 @@
+com\blackholelab\app\GargantuaApplication.class
+com\blackholelab\physics\KerrParticleSystem$Particle.class
+com\blackholelab\physics\KerrParticleSystem$Position.class
+com\blackholelab\physics\KerrMetric$CircularOrbit.class
+com\blackholelab\physics\EquatorialTimelikeGeodesic$Derivative.class
+com\blackholelab\physics\KerrMetric.class
+com\blackholelab\app\GargantuaApplication$1.class
+com\blackholelab\app\GraphicsDiagnostics.class
+com\blackholelab\app\GargantuaApplication$2.class
+com\blackholelab\app\GraphicsDiagnostics$Adapter.class
+com\blackholelab\physics\EquatorialTimelikeGeodesic.class
+com\blackholelab\physics\KerrPhoton.class
+com\blackholelab\physics\EquatorialTimelikeGeodesic$State.class
+com\blackholelab\app\GargantuaApplication$3.class
+com\blackholelab\app\GargantuaApplication$Inspector.class
+com\blackholelab\physics\KerrParticleSystem.class
+com\blackholelab\rendering\KerrRayTracer.class
